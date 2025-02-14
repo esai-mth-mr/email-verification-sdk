@@ -39,6 +39,6 @@ This project provides an email validation service using the Hunter API. It inclu
    ```
 
 ## Running mypy
-    ```
-    mypy sdk/
-    ```
+```
+mypy sdk/
+```
