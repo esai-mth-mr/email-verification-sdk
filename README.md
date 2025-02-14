@@ -14,8 +14,8 @@ This project provides an email validation service using the Hunter API. It inclu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/esai-mth-mr/email-verification-sdk
+   cd email-verification-sdk
    ```
 
 2. Create a virtual environment:
@@ -39,6 +39,6 @@ This project provides an email validation service using the Hunter API. It inclu
    ```
 
 ## Running mypy
-    ```bash
+    ```
     mypy sdk/
     ```
